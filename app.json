@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Aadhi000/Ajax",
-    "repository": "https://github.com/Aadhi000/Ajax",
+    "website": "https://github.com/Mrtest626/mrrobot",
+    "repository": "https://github.com/Mrtest626/mrrobot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
